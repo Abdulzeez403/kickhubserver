@@ -1,0 +1,2 @@
+2024-11-15 13:24:17 error: Error: read ECONNRESET
+    at TLSWrap.onStreamRead (node:internal/stream_base_commons:218:20)

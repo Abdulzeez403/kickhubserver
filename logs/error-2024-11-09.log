@@ -1,0 +1,22 @@
+2024-11-09 07:48:13 error: JsonWebTokenError: jwt malformed
+    at module.exports [as verify] (C:\Users\Sodiq\Desktop\kick\kickhubServer\node_modules\jsonwebtoken\verify.js:70:17)
+    at C:\Users\Sodiq\Desktop\kick\kickhubServer\middleware\authMiddleware.js:15:27
+    at asyncUtilWrap (C:\Users\Sodiq\Desktop\kick\kickhubServer\node_modules\express-async-handler\index.js:3:20)
+    at Layer.handle [as handle_request] (C:\Users\Sodiq\Desktop\kick\kickhubServer\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Sodiq\Desktop\kick\kickhubServer\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Sodiq\Desktop\kick\kickhubServer\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Sodiq\Desktop\kick\kickhubServer\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Sodiq\Desktop\kick\kickhubServer\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Sodiq\Desktop\kick\kickhubServer\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Sodiq\Desktop\kick\kickhubServer\node_modules\express\lib\router\index.js:280:10)
+2024-11-09 07:48:14 error: JsonWebTokenError: jwt malformed
+    at module.exports [as verify] (C:\Users\Sodiq\Desktop\kick\kickhubServer\node_modules\jsonwebtoken\verify.js:70:17)
+    at C:\Users\Sodiq\Desktop\kick\kickhubServer\middleware\authMiddleware.js:15:27
+    at asyncUtilWrap (C:\Users\Sodiq\Desktop\kick\kickhubServer\node_modules\express-async-handler\index.js:3:20)
+    at Layer.handle [as handle_request] (C:\Users\Sodiq\Desktop\kick\kickhubServer\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Sodiq\Desktop\kick\kickhubServer\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Sodiq\Desktop\kick\kickhubServer\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Sodiq\Desktop\kick\kickhubServer\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Sodiq\Desktop\kick\kickhubServer\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Sodiq\Desktop\kick\kickhubServer\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Sodiq\Desktop\kick\kickhubServer\node_modules\express\lib\router\index.js:280:10)
